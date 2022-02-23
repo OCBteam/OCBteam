@@ -1,4 +1,4 @@
-### Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">, we are the climate risks group at OCB division in FAO 👋
+### Hi there, we are the climate risks group at OCB division in FAO <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" />
 ---
 #### We started developing tools that can be used to process climate models and other climate related datasets
 
