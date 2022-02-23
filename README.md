@@ -6,6 +6,5 @@
 - 🏢 We are currently working with **CORDEX-CORE** climate models
 - 🌍 We support **GEF and GCF** projects
 - 🌱 We started developing tools that could better link climate science and policy  
-- 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce**
-- 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com
+
 
