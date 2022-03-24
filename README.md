@@ -6,6 +6,6 @@
 - 🏢 We are currently working with **CORDEX-CORE** climate models.
 - 🌍 We support **GEF and GCF** projects.
 - 🌱 We started developing tools that could better link climate science and policy.  
-- 🌱 We started developing tools for automatic processing of crop model output simulations.
+- 🌱 We started developing tools for automatic processing of crop model output simulations, in this case Aquacrop (FAO).
 
 
