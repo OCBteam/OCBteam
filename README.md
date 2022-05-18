@@ -10,6 +10,4 @@ We are a group of experts on the impact of climate change on different ecosystem
 - 🌱 We develop tools that could better link climate science and policy.  
 - 🌱 We develop tools for automatic processing of crop model output simulations, in this case Aquacrop (FAO).
   
-
-![g58827](https://user-images.githubusercontent.com/83447905/169043391-eb5b67b3-4e05-4217-9e26-f46ad543c2a6.png)
-
+![g59004](https://user-images.githubusercontent.com/83447905/169045704-913ce9f8-3a15-45ac-b21a-b6be0e6e1f8d.png)
